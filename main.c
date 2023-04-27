@@ -11,12 +11,8 @@ Spisok *sel_element = NULL;
 
 int main(int argc, char *argv[])
 {
-//Spisok *head = NULL;	
-//head = creat(fio,125);
-//add_element_end(555,head);
-//output_sp(head);
 
-menu();
+  menu();
 
 return 0;
 }
