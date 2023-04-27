@@ -9,7 +9,7 @@ Spisok *head = NULL;
 Spisok *sel_element = NULL;
 
 
-int main(void)
+int main(int argc, char *argv[])
 {
 //Spisok *head = NULL;	
 //head = creat(fio,125);
